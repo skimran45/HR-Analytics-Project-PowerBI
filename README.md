@@ -1,6 +1,6 @@
 # HR Analytics Project using PowerBI
 
-![](https://github.com/skimran45/HR-Analytics-Project-PowerBI/blob/031a80683f3472412d1bf03777d4e1a1676d0c51/Cover.png)
+![](https://github.com/skimran45/HR-Analytics-Project-PowerBI/blob/ca2b345f215b20d5a19fdf456da51fdf4ac6a0a6/Cover.png)
 
 ## Overview
 The **HR Analytics Dashboard** presents key insights into employee attrition across departments, job roles, educational backgrounds, age groups, salary bands, and years of service within a company of 1,470 employees. The dashboard aims to identify critical patterns and factors contributing to employee turnover, enabling organizations to build more effective retention strategies.
